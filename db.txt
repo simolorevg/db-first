@@ -1,0 +1,3 @@
+TABELLA AUTO
+_________________________________________________________________
+ID PRIMARY_KEY AUTO_INCREMENT
